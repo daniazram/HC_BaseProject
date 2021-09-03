@@ -1,0 +1,3725 @@
+fileFormatVersion: 2
+guid: 0caedfec4c759da4fabe5cd5b1e85275
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8810166437852065562
+    second: HC bt border 01
+  - first:
+      213: 8320844611062770732
+    second: HC bt border 02
+  - first:
+      213: -4983417317154219710
+    second: HC bt border 03
+  - first:
+      213: 7571408096035139856
+    second: HC bt base 01
+  - first:
+      213: 1595771934664993161
+    second: HC bt base 02
+  - first:
+      213: 5429231767918404945
+    second: HC bt base 03
+  - first:
+      213: 4903238948887754187
+    second: HC bt transparent 01
+  - first:
+      213: 5969631338233910977
+    second: HC bt transparent 02
+  - first:
+      213: -5226774978171449616
+    second: HC bt transparent 03
+  - first:
+      213: -3610602062749067739
+    second: HC bt color black 01
+  - first:
+      213: -8664495430674745458
+    second: HC bt color black 02
+  - first:
+      213: -6696055407891129854
+    second: HC bt color black 03
+  - first:
+      213: 7107741307490109652
+    second: HC bt color red 01
+  - first:
+      213: -1372502597849595857
+    second: HC bt color red 02
+  - first:
+      213: 2349280343792367343
+    second: HC bt color red 03
+  - first:
+      213: -9218329591560065917
+    second: HC bt color orange 01
+  - first:
+      213: -2149886475671862050
+    second: HC bt color orange 02
+  - first:
+      213: -8551090832661616662
+    second: HC bt color orange 03
+  - first:
+      213: 7010453873267554822
+    second: HC bt color yellow 01
+  - first:
+      213: 5904848708979113220
+    second: HC bt color yellow 02
+  - first:
+      213: 934543937652710983
+    second: HC bt color yellow 03
+  - first:
+      213: 1343940384745916591
+    second: HC bt color light green 01
+  - first:
+      213: 1871637063930005586
+    second: HC bt color light green 02
+  - first:
+      213: -120951931474061376
+    second: HC bt color light green 03
+  - first:
+      213: 2194625346170004422
+    second: HC bt color green 01
+  - first:
+      213: -8021758295658859724
+    second: HC bt color green 02
+  - first:
+      213: 7147119012567665889
+    second: HC bt color green 03
+  - first:
+      213: -8616766048587618051
+    second: HC bt color blue 01
+  - first:
+      213: -8489164820276558651
+    second: HC bt color blue 02
+  - first:
+      213: -7324708253529083603
+    second: HC bt color blue 03
+  - first:
+      213: 2756927335286419490
+    second: HC bt color cyan 01
+  - first:
+      213: 739792427309469700
+    second: HC bt color cyan 02
+  - first:
+      213: -2447151101305801399
+    second: HC bt color cyan 03
+  - first:
+      213: -2966998159356877078
+    second: HC bt color dark blue 01
+  - first:
+      213: 3505591040300928044
+    second: HC bt color dark blue 02
+  - first:
+      213: 9258363975808337
+    second: HC bt color dark blue 03
+  - first:
+      213: -8696099038770136836
+    second: HC bt color indigo 01
+  - first:
+      213: -7946323003859329179
+    second: HC bt color indigo 02
+  - first:
+      213: -9120009779554277364
+    second: HC bt color indigo 03
+  - first:
+      213: 5868986907523598124
+    second: HC bt color purple 01
+  - first:
+      213: 8159378337519995704
+    second: HC bt color purple 02
+  - first:
+      213: 665688028804705061
+    second: HC bt color purple 03
+  - first:
+      213: -2047638735369257212
+    second: HC bt color pink 01
+  - first:
+      213: -4881568280010017938
+    second: HC bt color pink 02
+  - first:
+      213: -5497128680741876801
+    second: HC bt color pink 03
+  - first:
+      213: -6422141651520111536
+    second: HC bt emboss 01
+  - first:
+      213: -4341165204282791038
+    second: HC bt emboss 02
+  - first:
+      213: -2930040368235564491
+    second: HC bt emboss 03
+  - first:
+      213: 8390041483872793773
+    second: HC bt border color grey 01
+  - first:
+      213: -5495419329697465381
+    second: HC bt border color grey 02
+  - first:
+      213: -3604158102182914528
+    second: HC bt border color grey 03
+  - first:
+      213: -766927834769583899
+    second: HC toggle off
+  - first:
+      213: -1133615450680193441
+    second: HC toggle on
+  - first:
+      213: -6296444068355932844
+    second: HC bt border color black 01
+  - first:
+      213: -5924832313970307273
+    second: HC bt border color black 02
+  - first:
+      213: -3858605468549647513
+    second: HC bt border color black 03
+  - first:
+      213: -5369388826572299092
+    second: HC bt border color red 01
+  - first:
+      213: 7476527083085336602
+    second: HC bt border color red 02
+  - first:
+      213: 7491952494710984703
+    second: HC bt border color red 03
+  - first:
+      213: -7289528749260123333
+    second: HC bt border color orange 01
+  - first:
+      213: 7876655790232335808
+    second: HC bt border color orange 02
+  - first:
+      213: 3280826924269298629
+    second: HC bt border color orange 03
+  - first:
+      213: -2405069860326442455
+    second: HC bt border color yellow 01
+  - first:
+      213: -8041336703624644529
+    second: HC bt border color yellow 02
+  - first:
+      213: -3797142038261290569
+    second: HC bt border color yellow 03
+  - first:
+      213: -3281370763026100615
+    second: HC bt border color light green 01
+  - first:
+      213: -7536264698344094575
+    second: HC bt border color light green 02
+  - first:
+      213: 6482826475403527306
+    second: HC bt border color light green 03
+  - first:
+      213: -5842324112225124521
+    second: HC bt border color green 01
+  - first:
+      213: 8807555049767879902
+    second: HC bt border color green 02
+  - first:
+      213: 2578978640513750176
+    second: HC bt border color green 03
+  - first:
+      213: -1881913843384688690
+    second: HC bt border color blue 01
+  - first:
+      213: -7678984455526399532
+    second: HC bt border color blue 02
+  - first:
+      213: -6123925819410827702
+    second: HC bt border color blue 03
+  - first:
+      213: -3246443198210262100
+    second: HC bt border color cyan 01
+  - first:
+      213: 9187443859865240613
+    second: HC bt border color cyan 02
+  - first:
+      213: -279836643949589250
+    second: HC bt border color cyan 03
+  - first:
+      213: -1651791509195243365
+    second: HC bt border color dark blue 01
+  - first:
+      213: 7103091264740127454
+    second: HC bt border color dark blue 02
+  - first:
+      213: -6552305061594679549
+    second: HC bt border color dark blue 03
+  - first:
+      213: 801479654195571728
+    second: HC bt border color indigo 01
+  - first:
+      213: 7579614391296390083
+    second: HC bt border color indigo 02
+  - first:
+      213: -7293468890285485189
+    second: HC bt border color indigo 03
+  - first:
+      213: 6693257370854005413
+    second: HC bt border color purple 01
+  - first:
+      213: 5050055340308816884
+    second: HC bt border color purple 02
+  - first:
+      213: 2514682310499485527
+    second: HC bt border color purple 03
+  - first:
+      213: -5520818139730628315
+    second: HC bt border color pink 01
+  - first:
+      213: -4547327811835810100
+    second: HC bt border color pink 02
+  - first:
+      213: 1568262327362289960
+    second: HC bt border color pink 03
+  - first:
+      213: -5922712523743101215
+    second: HC bt checkbox off
+  - first:
+      213: -66215232366983381
+    second: HC bt checkbox on
+  - first:
+      213: 1801909283660957537
+    second: HC bt radio off
+  - first:
+      213: 3701215801897469390
+    second: HC bt radio on
+  - first:
+      213: -6969882783476192128
+    second: HC big base circle
+  - first:
+      213: -7392132826288167958
+    second: HC big transparent circle
+  - first:
+      213: 2762841270912604939
+    second: HC bt emb black 01
+  - first:
+      213: -5969120575628924629
+    second: HC bt emb black 02
+  - first:
+      213: 6466970091579926824
+    second: HC bt emb black 03
+  - first:
+      213: -8965428867846032492
+    second: HC bt emb red 01
+  - first:
+      213: -7064094358492443799
+    second: HC bt emb red 02
+  - first:
+      213: 1784564266327721279
+    second: HC bt emb red 03
+  - first:
+      213: 3001007097069116462
+    second: HC bt emb orange 03
+  - first:
+      213: 8481555948664639596
+    second: HC bt emb yellow 01
+  - first:
+      213: -7545371458090962784
+    second: HC bt checkbox on
+  - first:
+      213: 7344509374322088474
+    second: HC bt radio on
+  - first:
+      213: 6697058033234198876
+    second: HC bt emb yellow 03
+  - first:
+      213: 7669344359321941864
+    second: HC bt emb light green 01
+  - first:
+      213: 4581786234341584160
+    second: HC bt emb light green 02
+  - first:
+      213: 7788529846282689339
+    second: HC bt emb light green 03
+  - first:
+      213: -1117154674045180267
+    second: HC bt emb green 01
+  - first:
+      213: -3685743248012576846
+    second: HC bt emb green 02
+  - first:
+      213: 3683991686723204966
+    second: HC bt emb green 03
+  - first:
+      213: -8710933583379749926
+    second: HC bt emb blue 01
+  - first:
+      213: 7244710574644917358
+    second: HC bt emb blue 02
+  - first:
+      213: 9169225934120956196
+    second: HC bt emb blue 03
+  - first:
+      213: 4424368187333313831
+    second: HC bt emb cyan 01
+  - first:
+      213: 5287872415391637776
+    second: HC bt emb cyan 02
+  - first:
+      213: -2767564006949715117
+    second: HC bt emb cyan 03
+  - first:
+      213: -6933900513801475873
+    second: HC bt emb dark blue 01
+  - first:
+      213: 2391445561332934554
+    second: HC bt emb dark blue 02
+  - first:
+      213: -3322052906654105194
+    second: HC bt emb dark blue 03
+  - first:
+      213: 2832268386511101023
+    second: HC bt emb indigo 01
+  - first:
+      213: -4154700754830664027
+    second: HC bt emb indigo 02
+  - first:
+      213: 2687695553813080165
+    second: HC bt emb indigo 03
+  - first:
+      213: 2498112879523695782
+    second: HC bt emb purple 03
+  - first:
+      213: 6499595820540753998
+    second: HC bt emb purple 01
+  - first:
+      213: 5028252997714267683
+    second: HC bt emb purple 02
+  - first:
+      213: -6532209287860388288
+    second: HC bt emb pink 03
+  - first:
+      213: -413724932832186751
+    second: HC bt emb pink 01
+  - first:
+      213: 8787001133268660269
+    second: HC bt emb pink 02
+  - first:
+      213: -8885974518953859289
+    second: HC fillbar tab 01
+  - first:
+      213: -4029631107312498616
+    second: HC fillbar tab 02
+  - first:
+      213: -3072868005276011794
+    second: HC bt checkbox on
+  - first:
+      213: -5543558209698159304
+    second: HC bt emb orange 01
+  - first:
+      213: 5354097944940018081
+    second: HC bt emb orange 02
+  - first:
+      213: -7545371458090962784
+    second: HC bt emb yellow 02
+  - first:
+      213: 6074096110098217482
+    second: HC fillbar transparent 01
+  - first:
+      213: 3018957091512234298
+    second: HC fillbar transparent 02
+  - first:
+      213: 9031331410363022457
+    second: HC fillbar tab 03
+  - first:
+      213: -2118693108526010565
+    second: HC fillbar tab 04
+  - first:
+      213: -5201527265344240687
+    second: HC tab base 01
+  - first:
+      213: 7860128952224515866
+    second: HC tab base 02
+  - first:
+      213: 2222478938410617932
+    second: HC tab base 03
+  - first:
+      213: -5720023134471491549
+    second: HC triangle base
+  - first:
+      213: 63128141668467106
+    second: HC simple square
+  - first:
+      213: -6783178852012268521
+    second: HC fill 02
+  - first:
+      213: 700126745255888281
+    second: HC tab border 03
+  - first:
+      213: -6304164512944494129
+    second: HC tab border 01
+  - first:
+      213: -7319594656609727246
+    second: HC tab border 02
+  - first:
+      213: 6493578009738690352
+    second: HC fillbar striped 01
+  - first:
+      213: -7449038103708181044
+    second: HC fillbar striped 02
+  - first:
+      213: 2261744887114514797
+    second: HC fill 01
+  - first:
+      213: 3988452805361103161
+    second: HC fill 03
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HC bt border 01
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 4
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 11, y: 11, z: 11, w: 11}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1fad3c62bff34a70800000000000000
+      internalID: 8810166437852065562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HC bt border 02
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 4
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 21, y: 21, z: 21, w: 21}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2cae998614997370800000000000000
+      internalID: 8320844611062770732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HC bt border 03
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 4
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 31, y: 31, z: 31, w: 31}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2491e737a5857dab0800000000000000
+      internalID: -4983417317154219710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HC bt base 01
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 72
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 11, y: 11, z: 11, w: 11}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 011f0bd5c8b031960800000000000000
+      internalID: 7571408096035139856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HC bt base 02
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 72
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 21, y: 21, z: 21, w: 21}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 989ae3cae12552610800000000000000
+      internalID: 1595771934664993161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HC bt base 03
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 72
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 31, y: 31, z: 31, w: 31}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 155ea021781885b40800000000000000
+      internalID: 5429231767918404945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HC bt transparent 01
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 140
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 11, y: 11, z: 11, w: 11}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc5705578ddcb0440800000000000000
+      internalID: 4903238948887754187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HC bt transparent 02
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 140
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 21, y: 21, z: 21, w: 21}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c6d87bd21468d250800000000000000
+      internalID: 5969631338233910977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HC bt transparent 03
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 140
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 31, y: 31, z: 31, w: 31}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fec03999d3c677b0800000000000000
+      internalID: -5226774978171449616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HC bt color black 01
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 208
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 11, y: 11, z: 11, w: 11}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5269c80cd8094edc0800000000000000
+      internalID: -3610602062749067739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HC bt color black 02
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 208
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 21, y: 21, z: 21, w: 21}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e87f2a0ff4781c780800000000000000
+      internalID: -8664495430674745458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HC bt color black 03
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 208
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 31, y: 31, z: 31, w: 31}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20ad0507515d213a0800000000000000
+      internalID: -6696055407891129854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HC bt color red 01
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 276
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 11, y: 11, z: 11, w: 11}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d8815c8f05c3a260800000000000000
+      internalID: 7107741307490109652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HC bt color red 02
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 276
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 21, y: 21, z: 21, w: 21}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f20cfd9b824e3fce0800000000000000
+      internalID: -1372502597849595857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HC bt color red 03
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 276
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 31, y: 31, z: 31, w: 31}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe63d8196025a9020800000000000000
+      internalID: 2349280343792367343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HC bt color orange 01
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 344
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 11, y: 11, z: 11, w: 11}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38c2798c31ae11080800000000000000
+      internalID: -9218329591560065917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HC bt color orange 02
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 344
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 21, y: 21, z: 21, w: 21}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed4892614a11a22e0800000000000000
+      internalID: -2149886475671862050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HC bt color orange 03
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 344
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 31, y: 31, z: 31, w: 31}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae7ea1d713c645980800000000000000
+      internalID: -8551090832661616662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HC bt color yellow 01
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 412
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 11, y: 11, z: 11, w: 11}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60abf5e97a22a4160800000000000000
+      internalID: 7010453873267554822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HC bt color yellow 02
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 412
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 21, y: 21, z: 21, w: 21}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40dbf179d9c32f150800000000000000
+      internalID: 5904848708979113220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HC bt color yellow 03
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 412
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 31, y: 31, z: 31, w: 31}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74ed8c682ca28fc00800000000000000
+      internalID: 934543937652710983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HC bt color light green 01
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 480
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 11, y: 11, z: 11, w: 11}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa80510d8a2a6a210800000000000000
+      internalID: 1343940384745916591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HC bt color light green 02
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 480
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 21, y: 21, z: 21, w: 21}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 258c0084ef369f910800000000000000
+      internalID: 1871637063930005586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HC bt color light green 03
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 480
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 31, y: 31, z: 31, w: 31}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c75791fbda425ef0800000000000000
+      internalID: -120951931474061376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HC bt color green 01
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 548
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 11, y: 11, z: 11, w: 11}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c3288def10e47e10800000000000000
+      internalID: 2194625346170004422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HC bt color green 02
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 548
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 21, y: 21, z: 21, w: 21}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 433f539c45dfca090800000000000000
+      internalID: -8021758295658859724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HC bt color green 03
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 548
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 31, y: 31, z: 31, w: 31}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ec4987ffdaaf2360800000000000000
+      internalID: 7147119012567665889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HC bt color blue 01
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 616
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 11, y: 11, z: 11, w: 11}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df8e941bee81b6880800000000000000
+      internalID: -8616766048587618051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HC bt color blue 02
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 616
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 21, y: 21, z: 21, w: 21}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c44cafc29d603a80800000000000000
+      internalID: -8489164820276558651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HC bt color blue 03
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 616
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 31, y: 31, z: 31, w: 31}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d21f601c6a8695a90800000000000000
+      internalID: -7324708253529083603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HC bt color cyan 01
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 684
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 11, y: 11, z: 11, w: 11}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 220bf4bfdc2924620800000000000000
+      internalID: 2756927335286419490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HC bt color cyan 02
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 684
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 21, y: 21, z: 21, w: 21}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4001e450b45444a00800000000000000
+      internalID: 739792427309469700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HC bt color cyan 03
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 684
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 31, y: 31, z: 31, w: 31}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94536f6f909f90ed0800000000000000
+      internalID: -2447151101305801399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HC bt color dark blue 01
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 752
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 11, y: 11, z: 11, w: 11}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae6ab46d4ea13d6d0800000000000000
+      internalID: -2966998159356877078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HC bt color dark blue 02
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 752
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 21, y: 21, z: 21, w: 21}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2ccdec4a7c56a030800000000000000
+      internalID: 3505591040300928044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HC bt color dark blue 03
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 752
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 31, y: 31, z: 31, w: 31}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 155baf7de64e02000800000000000000
+      internalID: 9258363975808337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HC bt color indigo 01
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 820
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 11, y: 11, z: 11, w: 11}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf87d768fff315780800000000000000
+      internalID: -8696099038770136836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HC bt color indigo 02
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 820
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 21, y: 21, z: 21, w: 21}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56f1374545df8b190800000000000000
+      internalID: -7946323003859329179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HC bt color indigo 03
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 820
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 31, y: 31, z: 31, w: 31}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c082495ec673f6180800000000000000
+      internalID: -9120009779554277364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HC bt color purple 01
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 888
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 11, y: 11, z: 11, w: 11}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c27cc564f74d27150800000000000000
+      internalID: 5868986907523598124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HC bt color purple 02
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 888
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 21, y: 21, z: 21, w: 21}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83b85e32e5feb3170800000000000000
+      internalID: 8159378337519995704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HC bt color purple 03
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 888
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 31, y: 31, z: 31, w: 31}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52b62283cbffc3900800000000000000
+      internalID: 665688028804705061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HC bt color pink 01
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 956
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 11, y: 11, z: 11, w: 11}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40f3cf54b635593e0800000000000000
+      internalID: -2047638735369257212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HC bt color pink 02
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 956
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 21, y: 21, z: 21, w: 21}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e633033538f214cb0800000000000000
+      internalID: -4881568280010017938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HC bt color pink 03
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 956
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 31, y: 31, z: 31, w: 31}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbbc4c3079646b3b0800000000000000
+      internalID: -5497128680741876801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HC bt emboss 01
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 4
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.56}
+      border: {x: 10, y: 18, z: 10, w: 10}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05c37e3a138ffd6a0800000000000000
+      internalID: -6422141651520111536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HC bt emboss 02
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 4
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.55}
+      border: {x: 21, y: 27, z: 21, w: 21}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28b20774f3511c3c0800000000000000
+      internalID: -4341165204282791038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HC bt emboss 03
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 4
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53}
+      border: {x: 31, y: 33, z: 31, w: 29}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 532b3c12fc76657d0800000000000000
+      internalID: -2930040368235564491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HC bt border color grey 01
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 72
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 11, y: 11, z: 11, w: 11}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da47709f64a6f6470800000000000000
+      internalID: 8390041483872793773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HC bt border color grey 02
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 72
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 21, y: 21, z: 21, w: 21}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdb31915c395cb3b0800000000000000
+      internalID: -5495419329697465381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HC bt border color grey 03
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 72
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 31, y: 31, z: 31, w: 31}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0269a0d3d457bfdc0800000000000000
+      internalID: -3604158102182914528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HC toggle off
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 140
+        width: 88
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 47, y: 0, z: 28, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e0133892335b55f0800000000000000
+      internalID: -766927834769583899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HC toggle on
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 140
+        width: 88
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 28, y: 0, z: 47, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5e0056f0c69440f0800000000000000
+      internalID: -1133615450680193441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HC bt border color black 01
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 208
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 11, y: 11, z: 11, w: 11}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45d7785da798e98a0800000000000000
+      internalID: -6296444068355932844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HC bt border color black 02
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 208
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 21, y: 21, z: 21, w: 21}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73f4b0cc664c6cda0800000000000000
+      internalID: -5924832313970307273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HC bt border color black 03
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 208
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 31, y: 31, z: 31, w: 31}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 763f7b625ca737ac0800000000000000
+      internalID: -3858605468549647513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HC bt border color red 01
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 276
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 11, y: 11, z: 11, w: 11}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca4e43b7f491c75b0800000000000000
+      internalID: -5369388826572299092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HC bt border color red 02
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 276
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 21, y: 21, z: 21, w: 21}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1093ec05c5f1c760800000000000000
+      internalID: 7476527083085336602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HC bt border color red 03
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 276
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 31, y: 31, z: 31, w: 31}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fff89519913c8f760800000000000000
+      internalID: 7491952494710984703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HC bt border color orange 01
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 344
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 11, y: 11, z: 11, w: 11}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b335a50693466da90800000000000000
+      internalID: -7289528749260123333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HC bt border color orange 02
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 344
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 21, y: 21, z: 21, w: 21}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c572da75b08f4d60800000000000000
+      internalID: 7876655790232335808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HC bt border color orange 03
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 344
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 31, y: 31, z: 31, w: 31}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c3eb9e74b6d78d20800000000000000
+      internalID: 3280826924269298629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HC bt border color yellow 01
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 412
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 11, y: 11, z: 11, w: 11}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92a7e3364b97f9ed0800000000000000
+      internalID: -2405069860326442455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HC bt border color yellow 02
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 412
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 21, y: 21, z: 21, w: 21}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4874257fde676090800000000000000
+      internalID: -8041336703624644529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HC bt border color yellow 03
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 412
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 31, y: 31, z: 31, w: 31}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b9abbf2f67dd4bc0800000000000000
+      internalID: -3797142038261290569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HC bt border color light green 01
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 480
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 11, y: 11, z: 11, w: 11}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97e0a7d2daa3672d0800000000000000
+      internalID: -3281370763026100615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HC bt border color light green 02
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 480
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 21, y: 21, z: 21, w: 21}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19442e98f2fc96790800000000000000
+      internalID: -7536264698344094575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HC bt border color light green 03
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 480
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 31, y: 31, z: 31, w: 31}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a84cce6f450a7f950800000000000000
+      internalID: 6482826475403527306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HC bt border color green 01
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 548
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 11, y: 11, z: 11, w: 11}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75f3f148c25ebeea0800000000000000
+      internalID: -5842324112225124521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HC bt border color green 02
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 548
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 21, y: 21, z: 21, w: 21}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed4cc1147a8ba3a70800000000000000
+      internalID: 8807555049767879902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HC bt border color green 03
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 548
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 31, y: 31, z: 31, w: 31}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a45427d86f5ac320800000000000000
+      internalID: 2578978640513750176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HC bt border color blue 01
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 616
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 7, y: 11, z: 11, w: 11}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecf5a2b845912e5e0800000000000000
+      internalID: -1881913843384688690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HC bt border color blue 02
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 616
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 21, y: 21, z: 21, w: 21}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d14a9c9254ce6590800000000000000
+      internalID: -7678984455526399532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HC bt border color blue 03
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 616
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 31, y: 31, z: 31, w: 31}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a46bc27c9e1730ba0800000000000000
+      internalID: -6123925819410827702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HC bt border color cyan 01
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 684
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 7, y: 11, z: 11, w: 11}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cabb1339c1152f2d0800000000000000
+      internalID: -3246443198210262100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HC bt border color cyan 02
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 684
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 21, y: 21, z: 21, w: 21}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5248c1d638b508f70800000000000000
+      internalID: 9187443859865240613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HC bt border color cyan 03
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 684
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 31, y: 31, z: 31, w: 31}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efc4f321e02dd1cf0800000000000000
+      internalID: -279836643949589250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HC bt border color dark blue 01
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 752
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 11, y: 11, z: 11, w: 11}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b90496bbf58a319e0800000000000000
+      internalID: -1651791509195243365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HC bt border color dark blue 02
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 752
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 21, y: 21, z: 21, w: 21}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed2f30a1fdf339260800000000000000
+      internalID: 7103091264740127454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HC bt border color dark blue 03
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 752
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 31, y: 31, z: 31, w: 31}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 307b7a713498115a0800000000000000
+      internalID: -6552305061594679549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HC bt border color indigo 01
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 820
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 11, y: 11, z: 11, w: 11}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01ca703cf7d6f1b00800000000000000
+      internalID: 801479654195571728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HC bt border color indigo 02
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 820
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 21, y: 21, z: 21, w: 21}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c3f8af5123303960800000000000000
+      internalID: 7579614391296390083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HC bt border color indigo 03
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 820
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 31, y: 31, z: 31, w: 31}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b73db2ecfa468ca90800000000000000
+      internalID: -7293468890285485189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HC bt border color purple 01
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 888
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 11, y: 11, z: 11, w: 11}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aa940ccd1a33ec50800000000000000
+      internalID: 6693257370854005413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HC bt border color purple 02
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 888
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 21, y: 21, z: 21, w: 21}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f3eb2f5396651640800000000000000
+      internalID: 5050055340308816884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HC bt border color purple 03
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 888
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 31, y: 31, z: 31, w: 31}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 757c740fc32f5e220800000000000000
+      internalID: 2514682310499485527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HC bt border color pink 01
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 956
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 11, y: 11, z: 11, w: 11}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 521b2d7072d1263b0800000000000000
+      internalID: -5520818139730628315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HC bt border color pink 02
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 956
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 21, y: 21, z: 21, w: 21}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccea54aa275a4e0c0800000000000000
+      internalID: -4547327811835810100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HC bt border color pink 03
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 956
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 31, y: 31, z: 31, w: 31}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8218e09174693c510800000000000000
+      internalID: 1568262327362289960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HC bt checkbox off
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 964
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eef88be65c4ecda0800000000000000
+      internalID: -5922712523743101215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HC bt radio off
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 964
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 167071252faa10910800000000000000
+      internalID: 1801909283660957537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HC big base circle
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 480
+        width: 190
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08c6ac45980064f90800000000000000
+      internalID: -6969882783476192128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HC big transparent circle
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 674
+        width: 190
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae3e6941c5ed96990800000000000000
+      internalID: -7392132826288167958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HC bt emb black 01
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 4
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 25, y: 25, z: 25, w: 25}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0bd88b6f75975620800000000000000
+      internalID: 2762841270912604939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HC bt emb black 02
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 4
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 34, y: 34, z: 34, w: 34}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b29a924567c692da0800000000000000
+      internalID: -5969120575628924629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HC bt emb black 03
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 4
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 37, y: 37, z: 37, w: 37}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82962b9e80b4fb950800000000000000
+      internalID: 6466970091579926824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HC bt emb red 01
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 84
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 25, y: 25, z: 25, w: 25}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 493310112f5649380800000000000000
+      internalID: -8965428867846032492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HC bt emb red 02
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 84
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 34, y: 34, z: 34, w: 34}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96b873eab9b47fd90800000000000000
+      internalID: -7064094358492443799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HC bt emb red 03
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 84
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 37, y: 37, z: 37, w: 37}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f35c155cebb04c810800000000000000
+      internalID: 1784564266327721279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HC bt emb purple 01
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 804
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 25, y: 25, z: 25, w: 25}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e48f1f266f3333a50800000000000000
+      internalID: 6499595820540753998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HC bt emb purple 02
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 804
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 34, y: 34, z: 34, w: 34}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32e4d89e571f7c540800000000000000
+      internalID: 5028252997714267683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HC bt emb pink 01
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 884
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 25, y: 25, z: 25, w: 25}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18ea0d79d57224af0800000000000000
+      internalID: -413724932832186751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HC bt emb pink 02
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 884
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 34, y: 34, z: 34, w: 34}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d20fe65a9f2b1f970800000000000000
+      internalID: 8787001133268660269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HC bt checkbox on
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 964
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee23cd774dafa55d0800000000000000
+      internalID: -3072868005276011794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HC bt radio on
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 964
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1a9ef1fc50fce560800000000000000
+      internalID: 7344509374322088474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HC bt emb orange 01
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 164
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 25, y: 25, z: 25, w: 25}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 835ad37ed235113b0800000000000000
+      internalID: -5543558209698159304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HC bt emb orange 02
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 164
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 34, y: 34, z: 34, w: 34}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a97cc4b6b39d4a40800000000000000
+      internalID: 5354097944940018081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HC bt emb orange 03
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 164
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 37, y: 37, z: 37, w: 37}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2c1b350e08b5a920800000000000000
+      internalID: 3001007097069116462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HC bt emb yellow 01
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 244
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 25, y: 25, z: 25, w: 25}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c60d1c6b23a84b570800000000000000
+      internalID: 8481555948664639596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HC bt emb yellow 02
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 244
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 34, y: 34, z: 34, w: 34}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a0fd1ec2a4794790800000000000000
+      internalID: -7545371458090962784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HC bt emb yellow 03
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 244
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 37, y: 37, z: 37, w: 37}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c51c9177ccab0fc50800000000000000
+      internalID: 6697058033234198876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HC bt emb light green 01
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 324
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 25, y: 25, z: 25, w: 25}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 867b7859f0cfe6a60800000000000000
+      internalID: 7669344359321941864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HC bt emb light green 02
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 324
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 34, y: 34, z: 34, w: 34}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02d64b60e46c59f30800000000000000
+      internalID: 4581786234341584160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HC bt emb light green 03
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 324
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 37, y: 37, z: 37, w: 37}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3b153a31aa661c60800000000000000
+      internalID: 7788529846282689339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HC bt emb green 01
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 404
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 25, y: 25, z: 25, w: 25}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 596ae5e2eb11f70f0800000000000000
+      internalID: -1117154674045180267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HC bt emb green 02
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 404
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 34, y: 34, z: 34, w: 34}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b77ae83b0c99dcc0800000000000000
+      internalID: -3685743248012576846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HC bt emb green 03
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 404
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 37, y: 37, z: 37, w: 37}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 667f0a2abea202330800000000000000
+      internalID: 3683991686723204966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HC bt emb blue 01
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 484
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 25, y: 25, z: 25, w: 25}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad321a4fe0c8c1780800000000000000
+      internalID: -8710933583379749926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HC bt emb blue 02
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 484
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 34, y: 34, z: 34, w: 34}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e64f93e22e16a8460800000000000000
+      internalID: 7244710574644917358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HC bt emb blue 03
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 484
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 37, y: 37, z: 37, w: 37}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 421349c0862af3f70800000000000000
+      internalID: 9169225934120956196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HC bt emb cyan 01
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 564
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 25, y: 25, z: 25, w: 25}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7258a81dc63866d30800000000000000
+      internalID: 4424368187333313831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HC bt emb cyan 02
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 564
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 34, y: 34, z: 34, w: 34}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 011610902fb426940800000000000000
+      internalID: 5287872415391637776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HC bt emb cyan 03
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 564
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 37, y: 37, z: 37, w: 37}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3530b98e233a799d0800000000000000
+      internalID: -2767564006949715117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HC bt emb dark blue 01
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 644
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 25, y: 25, z: 25, w: 25}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd8e6f65836d5cf90800000000000000
+      internalID: -6933900513801475873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HC bt emb dark blue 02
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 644
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 34, y: 34, z: 34, w: 34}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a972fee411f103120800000000000000
+      internalID: 2391445561332934554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HC bt emb dark blue 03
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 644
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 37, y: 37, z: 37, w: 37}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69104dd7b72b5e1d0800000000000000
+      internalID: -3322052906654105194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HC bt emb indigo 01
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 724
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 25, y: 25, z: 25, w: 25}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5c109e671d3e4720800000000000000
+      internalID: 2832268386511101023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HC bt emb indigo 02
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 724
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 34, y: 34, z: 34, w: 34}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ae55401da98756c0800000000000000
+      internalID: -4154700754830664027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HC bt emb indigo 03
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 724
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 37, y: 37, z: 37, w: 37}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 568ec6dbddc9c4520800000000000000
+      internalID: 2687695553813080165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HC bt emb purple 03
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 804
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 37, y: 37, z: 37, w: 37}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ac86d8ad641ba220800000000000000
+      internalID: 2498112879523695782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HC bt emb pink 03
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 884
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 37, y: 37, z: 37, w: 37}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04ef296034ee855a0800000000000000
+      internalID: -6532209287860388288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HC fillbar transparent 01
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 4
+        width: 93
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 18, y: 0, z: 18, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0a7cfdea368b4450800000000000000
+      internalID: 6074096110098217482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HC fillbar transparent 02
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 60
+        width: 93
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 26, y: 0, z: 26, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a31bbb7ca7d75e920800000000000000
+      internalID: 3018957091512234298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HC fillbar tab 01
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 160
+        width: 190
+        height: 52
+      alignment: 9
+      pivot: {x: 0.2, y: 0.5}
+      border: {x: 84, y: 0, z: 19, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7272592414daea480800000000000000
+      internalID: -8885974518953859289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HC fillbar tab 02
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 216
+        width: 190
+        height: 52
+      alignment: 9
+      pivot: {x: 0.2, y: 0.5}
+      border: {x: 92, y: 0, z: 27, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84846c89bdfd318c0800000000000000
+      internalID: -4029631107312498616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HC fillbar tab 03
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 272
+        width: 190
+        height: 100
+      alignment: 9
+      pivot: {x: 0.27, y: 0.5}
+      border: {x: 112, y: 0, z: 18, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97cf383511cb55d70800000000000000
+      internalID: 9031331410363022457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HC fillbar tab 04
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 376
+        width: 190
+        height: 100
+      alignment: 9
+      pivot: {x: 0.27, y: 0.5}
+      border: {x: 120, y: 0, z: 26, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3f2d36d7d3e892e0800000000000000
+      internalID: -2118693108526010565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HC tab base 01
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 4
+        width: 64
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 13, y: 0, z: 13, w: 13}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d3c5a3d28670d7b0800000000000000
+      internalID: -5201527265344240687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HC tab base 02
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 4
+        width: 64
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 20, y: 0, z: 20, w: 20}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a170b1623a9c41d60800000000000000
+      internalID: 7860128952224515866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HC tab base 03
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 46
+        width: 64
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 30, y: 0, z: 30, w: 30}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4c80ccb1d4d7de10800000000000000
+      internalID: 2222478938410617932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HC triangle base
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 46
+        width: 44
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3207fc2e3456e90b0800000000000000
+      internalID: -5720023134471491549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HC tab border 03
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 130
+        width: 64
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 30, y: 0, z: 30, w: 30}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9954abcb09957b900800000000000000
+      internalID: 700126745255888281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HC simple square
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 4
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 3, y: 3, z: 3, w: 3}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a1ca7bd5b640e000800000000000000
+      internalID: 63128141668467106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HC tab border 01
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 88
+        width: 64
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 13, y: 0, z: 13, w: 13}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc9e150c6cb1388a0800000000000000
+      internalID: -6304164512944494129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HC tab border 02
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 88
+        width: 64
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 20, y: 0, z: 20, w: 20}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fc0ee0d0739b6a90800000000000000
+      internalID: -7319594656609727246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HC fillbar striped 01
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 4
+        width: 93
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 18, y: 0, z: 18, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03f33cf9bc2dd1a50800000000000000
+      internalID: 6493578009738690352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HC fillbar striped 02
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 60
+        width: 93
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 26, y: 0, z: 26, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccddf16bf43bf9890800000000000000
+      internalID: -7449038103708181044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HC fill 01
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 116
+        width: 81
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 13, y: 0, z: 13, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d614409ddf4536f10800000000000000
+      internalID: 2261744887114514797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HC fill 02
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 116
+        width: 81
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 20, y: 0, z: 20, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 714edddd5ce4dd1a0800000000000000
+      internalID: -6783178852012268521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HC fill 03
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 172
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 1, y: 0, z: 1, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93175fad1b4d95730800000000000000
+      internalID: 3988452805361103161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
