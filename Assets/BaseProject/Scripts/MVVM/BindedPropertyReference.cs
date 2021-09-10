@@ -1,10 +1,10 @@
-using UnityEngine;
 using System;
 using System.Reflection;
 using System.ComponentModel;
 
-public class BindedPropertyReference
+public class BindedPropertyReference : IDisposable
 {
+    private bool disposed;
     private Action propertyChangedAction;
     private BindedPropertyReference propertyBindedTo;
 
@@ -38,5 +38,30 @@ public class BindedPropertyReference
             return;
 
         propertyChangedAction?.Invoke();
+    }
+
+    public void Dispose()
+    {
+        Dispose(true);
+        GC.SuppressFinalize(this);
+    }
+
+    protected virtual void Dispose(bool disposing)
+    {
+        if (disposed)
+        {
+            return;
+        }
+
+        if (disposing && Owner != null)
+        {
+            var notifyPropertyChanged = Owner as INotifyPropertyChanged;
+            if (notifyPropertyChanged != null)
+                notifyPropertyChanged.PropertyChanged -= PropertyChangedHandler;
+
+            Owner = null;
+        }
+
+        disposed = true;
     }
 }

@@ -3,10 +3,10 @@ using System.Collections;
 
 public class TestModel : ViewModelBase
 {
-    [SerializeField, FieldToProperty("LevelNumber")]
+    [SerializeField, FieldToPropertyAttribute("LevelNumber")]
     private string levelNumber;
 
-    [Bindable]
+    [SerializeField, Bindable]
     public string LevelNumber
     {
         get => levelNumber;
@@ -15,7 +15,7 @@ public class TestModel : ViewModelBase
 
     private void Awake()
     {
-        //StartCoroutine(TestRoutine());
+        StartCoroutine(TestRoutine());
     }
 
     private IEnumerator TestRoutine()

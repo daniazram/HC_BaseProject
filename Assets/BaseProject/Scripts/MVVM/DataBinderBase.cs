@@ -22,13 +22,22 @@ public class DataBinderBase : MonoBehaviour
 
     protected virtual void Awake()
     {
+        UnBind();
         Bind();
     }
 
     protected virtual void Start()
     { }
 
+    protected virtual void OnDestroy()
+    {
+        UnBind();
+    }
+
     public virtual void Bind()
+    { }
+
+    public virtual void UnBind()
     { }
 
     protected virtual BindedPropertyReference GetTargetPropertyReference(string propFullReference)
