@@ -1,26 +1,16 @@
 using UnityEngine;
 
-public class DataBinder : MonoBehaviour
+public class DataBinder : DataBinderBase
 {
-    [SerializeField]
-    private string targetProperty;
-    [SerializeField]
-    private string sourceValue;
-
-    public string TargetProperty
+    public override void Bind()
     {
-        get => targetProperty;
-        set => targetProperty = value;
-    }
+        var targetReference = GetTargetPropertyReference(TargetProperty);
+        var sourceValueReference = GetSourcePropertyReference(SourceValue);
 
-    public string SourceValue
-    {
-        get => sourceValue;
-        set => sourceValue = value;
-    }
+        targetReference.BindTo(sourceValueReference, () => targetReference.SetValue(sourceValueReference.GetValue()));
+        print($"Binded {targetReference.PropertyName} to {sourceValueReference.PropertyName}");
 
-    public virtual void Bind()
-    {
-
+        //Sync the value on first run.
+        //targetReference.SetValue(sourceValueReference.GetValue());
     }
 }
