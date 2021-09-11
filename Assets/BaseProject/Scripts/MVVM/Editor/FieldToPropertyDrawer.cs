@@ -1,6 +1,9 @@
 using UnityEngine;
 using UnityEditor;
 
+using System;
+using System.Reflection;
+
 [CustomPropertyDrawer(typeof(FieldToPropertyAttribute))]
 public class FieldToPropertyDrawer : PropertyDrawer
 {
@@ -9,6 +12,13 @@ public class FieldToPropertyDrawer : PropertyDrawer
         var attrib = attribute as FieldToPropertyAttribute;
         EditorGUI.PropertyField(position, property, new GUIContent(property.displayName));
 
-        Debug.Log(attrib.propertyName);//property.serializedObject.FindProperty(attrib.propertyName).displayName);
+        var owner = property.serializedObject.targetObject;
+        var prop = GetProperty(owner, attrib.propertyName);
+        prop.SetValue(owner, property.stringValue);
+    }
+
+    private PropertyInfo GetProperty(object owner, string propName)
+    {
+        return owner.GetType().GetProperty(propName, BindingFlags.Instance | BindingFlags.Public);
     }
 }
